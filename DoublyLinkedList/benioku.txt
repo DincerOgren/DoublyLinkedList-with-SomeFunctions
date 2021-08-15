@@ -1,0 +1,1 @@
+'Sayilar.txt' yi doc içine atarsanız program sorunsuz çalışacaktır. Saygılar.
